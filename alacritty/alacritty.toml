@@ -1,0 +1,14 @@
+[general]
+import = [
+   "~/.config/alacritty/themes/themes/gruvbox_dark.toml"
+]
+
+
+
+
+[keyboard]
+bindings = [
+  { key = "Return", mods = "Control", action = "ToggleFullscreen" }
+]
+
+

@@ -1,0 +1,12 @@
+theme = "gruvbox"
+
+[editor]
+cursorline = true
+bufferline = "multiple"
+color-modes = true
+
+[keys.normal]
+"C-e" = [
+    "open_below", 
+    ":insert-output echo -e 'if err != nil {\npanic(err)\n}'"
+]

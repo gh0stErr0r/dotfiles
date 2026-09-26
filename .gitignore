@@ -1,0 +1,5 @@
+nushell/history.sqlite3
+nushell/history.sqlite3-wal
+nushell/history.sqlite3-shm
+nushell/history.txt
+alacritty/themes
